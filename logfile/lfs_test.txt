@@ -1,0 +1,416 @@
+ 1342  df
+ 1343  ls -asl
+ 1344  cp lfs_test.c lfs_read.c
+ 1345  vi lfs_read.c
+ 1346  gcc -o lfs_read lfs_read.c
+ 1347  vi lfs_read.c
+ 1348  gcc -o lfs_read lfs_read.c
+ 1349  ./lfs_read bbbb.bin
+ 1350  vi lfs_read.c
+ 1351  gcc -o lfs_read lfs_read.c
+ 1352  ./lfs_read bbbb.bin
+ 1353  vi lfs_read.c
+ 1354  gcc -o lfs_read lfs_read.c
+ 1355  ./lfs_read bbbb.bin
+ 1356  gcc -o lfs_read lfs_read.c
+ 1357  vi lfs_read.c
+ 1358  gcc -o lfs_read lfs_read.c
+ 1359  ./lfs_read bbbb.bin
+ 1360  vi lfs_read.c
+ 1361  gcc -o lfs_read lfs_read.c
+ 1362  ./lfs_read bbbb.bin
+ 1363  vi lfs_read.c
+ 1364  gcc -o lfs_read lfs_read.c
+ 1365  ./lfs_read bbbb.bin
+ 1366  vi lfs_read.c
+ 1367  gcc -o lfs_read lfs_read.c
+ 1368  vi lfs_read.c
+ 1369  gcc -o lfs_read lfs_read.c
+ 1370  ./lfs_read bbbb.bin
+ 1371  gcc -o lfs_read lfs_read.c
+ 1372  vi lfs_read.c
+ 1373  gcc -o lfs_read lfs_read.c
+ 1374  ./lfs_read bbbb.bin
+ 1375  vi lfs_read.c
+ 1376  gcc -o lfs_read lfs_read.c
+ 1377  ./lfs_read bbbb.bin
+ 1378  vi lfs_read.c
+ 1379  gcc -o lfs_read lfs_read.c
+ 1380  ./lfs_read bbbb.bin
+ 1381  vi lfs_read.c
+ 1382  gcc -o lfs_read lfs_read.c
+ 1383  ./lfs_read bbbb.bin
+ 1384  vi lfs_read.c
+ 1385  gcc -o lfs_read lfs_read.c
+ 1386  ./lfs_read bbbb.bin
+ 1387  vi lfs_read.c
+ 1388  gcc -o lfs_read lfs_read.c
+ 1389  vi lfs_read.c
+ 1390  gcc -o lfs_read lfs_read.c
+ 1391  vi lfs_read.c
+ 1392  gcc -o lfs_read lfs_read.c
+ 1393  ./lfs_read bbbb.bin
+ 1394  vi lfs_read.c
+ 1395  gcc -o lfs_read lfs_read.c
+ 1396  ./lfs_read bbbb.bin
+ 1397  vi lfs_read.c
+ 1398  gcc -o lfs_read lfs_read.c
+ 1399  ./lfs_read bbbb.bin
+ 1400  vi lfs_read.c
+ 1401  gcc -o lfs_read lfs_read.c
+ 1402  vi lfs_read.c
+ 1403  gcc -o lfs_read lfs_read.c
+ 1404  vi lfs_read.c
+ 1405  gcc -o lfs_read lfs_read.c
+ 1406  vi lfs_read.c
+ 1407  gcc -o lfs_read lfs_read.c
+ 1408  vi lfs_read.c
+ 1409  gcc -o lfs_read lfs_read.c
+ 1410  ./lfs_read bbbb.bin
+ 1411  vi lfs_read.c
+ 1412  gcc -o lfs_read lfs_read.c
+ 1413  vi lfs_read.c
+ 1414  gcc -o lfs_read lfs_read.c
+ 1415  ./lfs_read bbbb.bin
+ 1416  ./lfs_read bbbb.bin 70000000
+ 1417  ./lfs_read bbbb.bin 71000000
+ 1418  ./lfs_read bbbb.bin 710a0000
+ 1419  ./lfs_read bbbb.bin 710a0fa0
+ 1420  ./lfs_read bbbb.bin 710a0fa4
+ 1421  ./lfs_read bbbb.bin 710a0fa5
+ 1422  ./lfs_read bbbb.bin 710a0fa6
+ 1423  ./lfs_read bbbb.bin 72000000
+ 1424  vi lfs_read.c
+ 1425  gcc -o lfs_read lfs_read.c
+ 1426  ./lfs_read bbbb.bin 72000000
+ 1427  vi lfs_read.c
+ 1428  gcc -o lfs_read lfs_read.c
+ 1429  ./lfs_read bbbb.bin 72000000
+ 1430  ./lfs_read bbbb.bin 38000000
+ 1431  ./lfs_read bbbb.bin 98000000
+ 1432  ./lfs_read bbbb.bin 88000000
+ 1433  vi bbbb.bin
+ 1434  ./lfs_read bbbb.bin 6f000000
+ 1435  vi lfs_read.c
+ 1436  gcc -o lfs_read lfs_read.c
+ 1437  ./lfs_read bbbb.bin 6f000000
+ 1438  vi lfs_read.c
+ 1439  gcc -o lfs_read lfs_read.c
+ 1440  ./lfs_read bbbb.bin 6f000000
+ 1441  vi lfs_read.c
+ 1442  ./lfs_read bbbb.bin 72000000
+ 1443  ./lfs_read bbbb.bin 71000000
+ 1444  vi lfs_read.c
+ 1445  gcc -o lfs_read lfs_read.c
+ 1446  ./lfs_read bbbb.bin 71000000
+ 1447  vi lfs_read.c
+ 1448  gcc -o lfs_read lfs_read.c
+ 1449  ./lfs_read bbbb.bin 71000000
+ 1450  ./lfs_read bbbb.bin 6f2f9077
+ 1451  vi lfs_read.c
+ 1452  gcc -o lfs_read lfs_read.c
+ 1453  ./lfs_read bbbb.bin 6f2f9077
+ 1454  vi lfs_read.c
+ 1455  gcc -o lfs_read lfs_read.c
+ 1456  ./lfs_read bbbb.bin 6f2f9077
+ 1457  vi lfs_read.c
+ 1458  gcc -o lfs_read lfs_read.c
+ 1459  ./lfs_read bbbb.bin 6f2f9077
+ 1460  ./lfs_read bbbb.bin 6f2f9404
+ 1461  ./lfs_read bbbb.bin 6f2f9405
+ 1462  ./lfs_read bbbb.bin 0
+ 1463  ./lfs_read bbbb.bin 90000000
+ 1464  ./lfs_read bbbb.bin 80000000
+ 1465  vi lfs_read.c
+ 1466  gcc -o lfs_read lfs_read.c
+ 1467  ./lfs_read bbbb.bin 90000000
+ 1468  ./lfs_read bbbb.bin 0
+ 1469  ./lfs_read bbbb.bin 80000000
+ 1470  ./lfs_read bbbb.bin 80000061
+ 1471  ./lfs_read bbbb.bin 0
+ 1472  ./lfs_read bbbb.bin 90000000
+ 1473  vi lfs_read.c
+ 1474  gcc -o lfs_read lfs_read.c
+ 1475  ./lfs_read bbbb.bin 90000000
+ 1476  ./lfs_read bbbb.bin 0
+ 1477  ./lfs_read bbbb.bin 80000061
+ 1478  vi lfs_read.c
+ 1479  gcc -o lfs_read lfs_read.c
+ 1480  ./lfs_read bbbb.bin 80000061
+ 1481  vi lfs_read.c
+ 1482  gcc -o lfs_read lfs_read.c
+ 1483  ./lfs_read bbbb.bin 80000061
+ 1484  vi lfs_read.c
+ 1485  gcc -o lfs_read lfs_read.c
+ 1486  ./lfs_read bbbb.bin 80000061
+ 1487  gcc -o lfs_read lfs_read.c
+ 1488  vi lfs_read.c
+ 1489  gcc -o lfs_read lfs_read.c
+ 1490  ./lfs_read bbbb.bin 80000061
+ 1491  vi lfs_read.c
+ 1492  gcc -o lfs_read lfs_read.c
+ 1493  ./lfs_read bbbb.bin 80000061
+ 1494  ./lfs_read bbbb.bin 80000000
+ 1495  ./lfs_read bbbb.bin 800000043
+ 1496  ./lfs_read bbbb.bin 80000043
+ 1497  vi lfs_read.c
+ 1498  gcc -o lfs_read lfs_read.c
+ 1499  ./lfs_read bbbb.bin 80000043
+ 1500  vi lfs_read.c
+ 1501  gcc -o lfs_read lfs_read.c
+ 1502  ./lfs_read bbbb.bin 80000043
+ 1503  vi lfs_read.c
+ 1504  gcc -o lfs_read lfs_read.c
+ 1505  ./lfs_read bbbb.bin 80000043
+ 1506  ./lfs_read bbbb.bin 80000061
+ 1507  ./lfs_read bbbb.bin 8000017a
+ 1508  vi lfs_read.c
+ 1509  gcc -o lfs_read lfs_read.c
+ 1510  vi lfs_read.c
+ 1511  gcc -o lfs_read lfs_read.c
+ 1512  ./lfs_read bbbb.bin 80000000 80001000
+ 1513  ./lfs_read bbbb.bin 8000000 80001000
+ 1514  ./lfs_read bbbb.bin 80000000 80001000
+ 1515  ./lfs_read bbbb.bin 80000061 80001000
+ 1516  ./lfs_read bbbb.bin 80000061 80000000
+ 1517  vi lfs_read.c
+ 1518  gcc -o lfs_read lfs_read.c
+ 1519  vi lfs_read.c
+ 1520  gcc -o lfs_read lfs_read.c
+ 1521  ./lfs_read bbbb.bin 80000061 80000000
+ 1522  ./lfs_read bbbb.bin 80000061 80010000
+ 1523  ./lfs_read bbbb.bin 80000061 80001000
+ 1524  vi lfs_read.c
+ 1525  gcc -o lfs_read lfs_read.c
+ 1526  ./lfs_read bbbb.bin 80000061 80001000
+ 1527  ./lfs_read bbbb.bin 80000061 80010000
+ 1528  ./lfs_read bbbb.bin 80010000
+ 1529  vi lfs_read.c
+ 1530  gcc -o lfs_read lfs_read.c
+ 1531  ./lfs_read bbbb.bin 80010000
+ 1532  vi lfs_read.c
+ 1533  gcc -o lfs_read lfs_read.c
+ 1534  ./lfs_read bbbb.bin 80010000
+ 1535  ./lfs_read bbbb.bin 80000000
+ 1536  ./lfs_read bbbb.bin 80000000 80010000
+ 1537  vi lfs_read.c
+ 1538  gcc -o lfs_read lfs_read.c
+ 1539  ./lfs_read bbbb.bin 80000000 80010000
+ 1540  vi lfs_read.c
+ 1541  gcc -o lfs_read lfs_read.c
+ 1542  ./lfs_read bbbb.bin 80000000 80010000
+ 1543  vi lfs_read.c
+ 1544  gcc -o lfs_read lfs_read.c
+ 1545  ./lfs_read bbbb.bin 80000000 80010000
+ 1546  ./lfs_read bbbb.bin 80000001 80010000
+ 1547  vi lfs_read.c
+ 1548  gcc -o lfs_read lfs_read.c
+ 1549  ./lfs_read bbbb.bin 80000001 80010000
+ 1550  ./lfs_read bbbb.bin 8000e8b9 80010000
+ 1551  vi lfs_read.c
+ 1552  gcc -o lfs_read lfs_read.c
+ 1553  ./lfs_read bbbb.bin 8000e8b9 80010000
+ 1554  ./lfs_read bbbb.bin 8000e8b9 8000fee7
+ 1555  vi lfs_read.c
+ 1556  gcc -o lfs_read lfs_read.c
+ 1557  ./lfs_read bbbb.bin 8000e8b9 8000fee7
+ 1558  ./lfs_read bbbb.bin 8000e8b9 80010000
+ 1559  ./lfs_read bbbb.bin 8000e8b9 8000fee7
+ 1560  vi lfs_read.c
+ 1561  gcc -o lfs_read lfs_read.c
+ 1562  ./lfs_read bbbb.bin 8000e8b9 8000fee7
+ 1563  vi lfs_read.c
+ 1564  gcc -o lfs_read lfs_read.c
+ 1565  ./lfs_read bbbb.bin 8000e8b9 8000fee7
+ 1566  ls -asl
+ 1567  df
+ 1568  ./lfs_read bbbb.bin 8000e8b9 8000fee7
+ 1569  vi lfs_test.c
+ 1570  gcc -o lfs_test lfs_test.c
+ 1571  ls -asl
+ 1572  vi bbbb.bin 
+ 1573  ./lfs_read bbbb.bin 8000e8b9 8000fee7
+ 1574  ./lfs_read bbbb.bin 8000e8b9 80010ee7
+ 1575  ./lfs_read bbbb.bin 8000e8b9 8000fee7
+ 1576  ./lfs_read bbbb.bin 8000e8b9 80010ee7
+ 1577  vi lfs_read.c
+ 1578  gcc -o lfs_read lfs_read.c
+ 1579  vi lfs_read.c
+ 1580  gcc -o lfs_read lfs_read.c
+ 1581  ./lfs_read bbbb.bin 8000e8b9 80010ee7
+ 1582  ./lfs_read bbbb.bin 8000e8b9 80010f32
+ 1583  ./lfs_read bbbb.bin 8000e8b9 80010f33
+ 1584  sync
+ 1585  ls -asl
+ 1586  cd /opt1/vmux/vgw128-trunk/
+ 1587  ls
+ 1588  cd SDK/cesanta.com/mongoose-master/examples/tdxagwEMS/
+ 1589  cp /opt2/lfs_*.c .
+ 1590  cp /opt2/lfs_*.h .
+ 1591  cp /opt2/lfs_*.sh .
+ 1592  ls -asl /opt2
+ 1593  ls -asl
+ 1594  sync
+ 1595  history >lfs_test.txt
+ 1596  sync
+ 1597  ping 192.168.2.249
+ 1598  svn st
+ 1599  svn add lfs_*
+ 1600  svn ci -m ""
+ 1601  svn st
+ 1602  sync
+ 1603  cd /opt2
+ 1604  ls -asl
+ 1605  cat lfs_write.sh
+ 1606  cp lfs_write.sh lfs_write1.sh
+ 1607  vi lfs_write1.sh
+ 1608  vi lfs_test.c
+ 1609  gcc -o lfs_test lfs_test.c
+ 1610  cp seqfile.txt bbbb.bin.seq
+ 1611  vi lfs_test.c
+ 1612  ls -asl
+ 1613  vi lfs_write.sh
+ 1614  ls -asl
+ 1615  lfs_write.sh cccc.bin
+ 1616  ./lfs_write.sh cccc.bin
+ 1617  bg
+ 1618  ls -asl
+ 1619  fg
+ 1620  cd SDK/cesanta.com/mongoose-master/examples/tdxagwEMS/
+ 1621  cd /opt1/vmux/vgw128-trunk/SDK/cesanta.com/mongoose-master/examples/tdxagwEMS/
+ 1622  history
+ 1623  cp /opt2/lfs_*.* .
+ 1624  svn st
+ 1625  cp /opt2/lfs_*.* .
+ 1626  svn ci -m ""
+ 1627  ls -asl /opt2/
+ 1628  cat lfs_write.sh
+ 1629  svn st
+ 1630  cat lfs_write1.sh 
+ 1631  rm lfs_write1.sh
+ 1632  ls -asl
+ 1633  svn st
+ 1634  sync
+ 1635  cd /opt2
+ 1636  ls -asl
+ 1637  fg
+ 1638  bg
+ 1639  ls -asl
+ 1640  fg
+ 1641  vi lfs_read.c
+ 1642  gcc -o lfs_read lfs_read.c
+ 1643  vi lfs_read.c
+ 1644  gcc -o lfs_read lfs_read.c
+ 1645  vi lfs_read.c
+ 1646  gcc -o lfs_read lfs_read.c
+ 1647  vi lfs_read.c
+ 1648  gcc -o lfs_read lfs_read.c
+ 1649  vi lfs_read.c
+ 1650  gcc -o lfs_read lfs_read.c
+ 1651  vi lfs_read.c
+ 1652  gcc -o lfs_read lfs_read.c
+ 1653  vi lfs_read.c
+ 1654  gcc -o lfs_read lfs_read.c
+ 1655  history
+ 1656  ./lfs_read bbbb.bin 8000e8b9 80010f33 aaa
+ 1657  vi lfs_read.c
+ 1658  gcc -o lfs_read lfs_read.c
+ 1659  vi lfs_read.c
+ 1660  gcc -o lfs_read lfs_read.c
+ 1661  ./lfs_read bbbb.bin 8000e8b9 80010f33 agent
+ 1662  vi lfs_read.c
+ 1663  gcc -o lfs_read lfs_read.c
+ 1664  ./lfs_read bbbb.bin 8000e8b9 80010f33 agent
+ 1665  vi lfs_read.c
+ 1666  gcc -o lfs_read lfs_read.c
+ 1667  ./lfs_read bbbb.bin 8000e8b9 80010f33 agent
+ 1668  ./lfs_read bbbb.bin 8000e8b9 80010f33 sdk
+ 1669  ./lfs_read bbbb.bin 8000e8b9 80010f33 fklskl
+ 1670  vi lfs_read.c
+ 1671  gcc -o lfs_read lfs_read.c
+ 1672  ./lfs_read bbbb.bin 8000e8b9 80010f33 fklskl
+ 1673  ./lfs_read bbbb.bin 0000e8b9 80010f33 fklskl
+ 1674  ./lfs_read bbbb.bin 7000e8b9 80010f33 fklskl
+ 1675  ./lfs_read bbbb.bin 7000e8b9 80010f33 fklsklsd
+ 1676  vi lfs_read.c
+ 1677  gcc -o lfs_read lfs_read.c
+ 1678  ./lfs_read bbbb.bin 7000e8b9 80010f33 fklsklsd
+ 1679  ls -asl
+ 1680  ./lfs_read bbbb.bin 7000e8b9 80010f33 fklskls
+ 1681  gcc -o lfs_read lfs_read.c
+ 1682  vi lfs_read.c
+ 1683  gcc -o lfs_read lfs_read.c
+ 1684  ./lfs_read bbbb.bin 7000e8b9 80010f33 fklsklsd
+ 1685  vi lfs_read.c
+ 1686  gcc -o lfs_read lfs_read.c
+ 1687  ./lfs_read bbbb.bin 7000e8b9 80010f33 fklsklsd
+ 1688  vi lfs_read.c
+ 1689  gcc -o lfs_read lfs_read.c
+ 1690  ./lfs_read bbbb.bin 7000e8b9 80010f33 fklsklsd
+ 1691  time ./lfs_read bbbb.bin 0000e8b9 b0010f33 fklsklsd
+ 1692  vi lfs_test.c
+ 1693  gcc -o lfs_test lfs_test.c
+ 1694  time ./lfs_read bbbb.bin 0000e8b9 c0010f33 HYW
+ 1695  time ./lfs_read bbbb.bin 0000e8b9 b0010f33 fklsklsd
+ 1696  vi lfs_read.c
+ 1697  gcc -o lfs_test lfs_test.c
+ 1698  gcc -o lfs_read lfs_read.c
+ 1699  time ./lfs_read bbbb.bin 0000e8b9 b0010f33 fklsklsd
+ 1700  time ./lfs_read bbbb.bin 0000e8b9 d0010f33 fklsklsd
+ 1701  time ./lfs_read bbbb.bin 7000e8b9 d0010f33 fklsklsd
+ 1702  vi lfs_read.c
+ 1703  gcc -o lfs_read lfs_read.c
+ 1704  time ./lfs_read bbbb.bin 7000e8b9 d0010f33 fklsklsd
+ 1705  vi lfs_read.c
+ 1706  :q
+ 1707  vi lfs_read.c
+ 1708  gcc -o lfs_read lfs_read.c
+ 1709  time ./lfs_read bbbb.bin 7000e8b9 d0010f33 fklsklsd
+ 1710  time ./lfs_read bbbb.bin 7000e8b9 c0a66bbf fklsklsd
+ 1711  time ./lfs_read bbbb.bin 7000e8b9 c0a89aa6 fklsklsd
+ 1712  gcc -o lfs_read lfs_read.c
+ 1713  vi lfs_read.c
+ 1714  gcc -o lfs_read lfs_read.c
+ 1715  vi lfs_read.c
+ 1716  gcc -o lfs_read lfs_read.c
+ 1717  vi lfs_read.c
+ 1718  gcc -o lfs_read lfs_read.c
+ 1719  time ./lfs_read bbbb.bin 7000e8b9 c0a89aa6 fklsklsd
+ 1720  time ./lfs_read bbbb.bin 7000e8b9 c0a89aa6 HYW
+ 1721  vi lfs_read.c
+ 1722  gcc -o lfs_read lfs_read.c
+ 1723  vi lfs_read.c
+ 1724  gcc -o lfs_read lfs_read.c
+ 1725  vi lfs_read.c
+ 1726  gcc -o lfs_read lfs_read.c
+ 1727  time ./lfs_read bbbb.bin 7000e8b9 c0a89aa6 HYW
+ 1728  sync
+ 1729  time ./lfs_read bbbb.bin 7000e8b9 c0a89aa6 HYW
+ 1730  time ./lfs_read bbbb.bin 0000e8b9 c0a89aa6 HYW
+ 1731  sync
+ 1732  ls -asl
+ 1733  time ./lfs_read bbbb.bin 0000e8b9 c0a89aa6 HYW
+ 1734  vi lfs_read.c
+ 1735  gcc -o lfs_read lfs_read.c
+ 1736  time ./lfs_read bbbb.bin 0000e8b9 c0a89aa6 HYW
+ 1737  time ./lfs_read bbbb.bin 0000e8b9 c0a89aa6 HYW 0
+ 1738  time ./lfs_read bbbb.bin 0000e8b9 c0a89aa6 HYW 1
+ 1739  time ./lfs_read bbbb.bin 0000e8b9 c0a89aa6 HYW 2
+ 1740  vi lfs_read.c
+ 1741  gcc -o lfs_read lfs_read.c
+ 1742  time ./lfs_read bbbb.bin 0000e8b9 c0a89aa6 HYW 0
+ 1743  sync
+ 1744  ls -asl
+ 1745  rm lfs_write1.sh
+ 1746  ls -asl
+ 1747  rm seqfile.txt 
+ 1748  ls -asl
+ 1749  sync
+ 1750  cd /opt1/vmux/vgw128-trunk/SDK/cesanta.com/mongoose-master/examples/tdxagwEMS/
+ 1751  ls -asl
+ 1752  cp /opt2/lfs_*.* .
+ 1753  ls -asl
+ 1754  svn st
+ 1755  svn ci -m ""
+ 1756  ls -asl *.txt
+ 1757  history >>lfs_test.txt
